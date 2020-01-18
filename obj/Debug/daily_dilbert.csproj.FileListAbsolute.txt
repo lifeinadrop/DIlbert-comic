@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\projects\daily_dilbert\bin\Debug\daily_dilbert.exe.config
+C:\Users\Sam\Documents\projects\daily_dilbert\bin\Debug\daily_dilbert.exe
+C:\Users\Sam\Documents\projects\daily_dilbert\bin\Debug\daily_dilbert.pdb
+C:\Users\Sam\Documents\projects\daily_dilbert\obj\Debug\daily_dilbert.csprojAssemblyReference.cache
+C:\Users\Sam\Documents\projects\daily_dilbert\obj\Debug\MainWindow.g.cs
+C:\Users\Sam\Documents\projects\daily_dilbert\obj\Debug\App.g.cs
+C:\Users\Sam\Documents\projects\daily_dilbert\obj\Debug\daily_dilbert_MarkupCompile.cache
+C:\Users\Sam\Documents\projects\daily_dilbert\obj\Debug\daily_dilbert_MarkupCompile.lref
+C:\Users\Sam\Documents\projects\daily_dilbert\obj\Debug\MainWindow.baml
+C:\Users\Sam\Documents\projects\daily_dilbert\obj\Debug\daily_dilbert.g.resources
+C:\Users\Sam\Documents\projects\daily_dilbert\obj\Debug\daily_dilbert.Properties.Resources.resources
+C:\Users\Sam\Documents\projects\daily_dilbert\obj\Debug\daily_dilbert.csproj.GenerateResource.cache
+C:\Users\Sam\Documents\projects\daily_dilbert\obj\Debug\daily_dilbert.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\projects\daily_dilbert\obj\Debug\daily_dilbert.exe
+C:\Users\Sam\Documents\projects\daily_dilbert\obj\Debug\daily_dilbert.pdb

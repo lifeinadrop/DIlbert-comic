@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace DIlbert
+namespace daily_dilbert
 {
     /// <summary>
     /// Interaction logic for App.xaml
