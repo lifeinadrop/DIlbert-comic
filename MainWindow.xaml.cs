@@ -1,19 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
 using System.Net.Http;
-using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace daily_dilbert
 {
@@ -29,7 +18,7 @@ namespace daily_dilbert
 
         private void SetAsWallpaper_Click(object sender, RoutedEventArgs e)
         {
-
+            // Set as wallpaper. Work in progress.
         }
 
         private async void Window_Loaded(object sender, RoutedEventArgs e)
@@ -47,6 +36,11 @@ namespace daily_dilbert
             comic.Source = bi3;
         }
 
+        /// <summary>
+        /// Method which sends a GET request to a url and returns the html as a string.
+        /// </summary>
+        /// <param name="siteUrl">The url to send a GET request to.</param>
+        /// <returns>Returns the url of the assest found in the scraper.</returns>
         async Task<string> GetHtml(Uri siteUrl)
         {
             HttpClient client = new HttpClient();
