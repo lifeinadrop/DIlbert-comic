@@ -34,16 +34,15 @@ namespace daily_dilbert
 
         private async void Window_Loaded(object sender, RoutedEventArgs e)
         {
+            // Get today's date and format it the way the url has the date formatted.
             string todaysDate = DateTime.Today.ToString("yyyy-MM-dd");
-            string stripUrl = "https://dilbert.com/strips/" + todaysDate;
-            var assetUrl = await GetHtml(new Uri(stripUrl));
+            string stripUrl = "https://dilbert.com/strip/" + todaysDate;
+            string assetUrl = await GetHtml(new Uri(stripUrl));
 
             var bi3 = new BitmapImage();
             bi3.BeginInit();
             bi3.UriSource = new Uri(assetUrl);
             bi3.EndInit();
-
-            //https://assets.amuniversal.com/439afee007fd0138d9cf005056a9545d direct asset to Dilbert comic (for testing)
 
             comic.Source = bi3;
         }
@@ -52,9 +51,11 @@ namespace daily_dilbert
         {
             HttpClient client = new HttpClient();
             try
-            {     
+            {
+                // Send a GET request to the Dilbert website and return the website as a string.
                 string responseBody = await client.GetStringAsync(siteUrl);
 
+                // Scraper to find the img element, and grabs the comic's image source url.
                 int position = responseBody.IndexOf("img-comic\"");
                 int startPosition = responseBody.IndexOf("src=\"", position) + 5;
                 int endPosition = responseBody.IndexOf("\"", startPosition);
@@ -62,11 +63,6 @@ namespace daily_dilbert
                 string assetUrl = "https:" + responseBody.Substring(startPosition, endPosition - startPosition);
 
                 return assetUrl;
-
-                // Above three lines can be replaced with new helper method below
-                //string responseBody = await client.GetStringAsync(siteUrl);
-
-                //Console.WriteLine(responseBody);
             }
             catch (HttpRequestException e)
             {
