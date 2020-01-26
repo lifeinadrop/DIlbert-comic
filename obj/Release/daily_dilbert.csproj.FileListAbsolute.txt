@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\projects\github\DIlbert-comic\bin\Release\daily_dilbert.exe.config
+C:\Users\Sam\Documents\projects\github\DIlbert-comic\bin\Release\daily_dilbert.exe
+C:\Users\Sam\Documents\projects\github\DIlbert-comic\bin\Release\daily_dilbert.pdb
+C:\Users\Sam\Documents\projects\github\DIlbert-comic\obj\Release\daily_dilbert.csprojAssemblyReference.cache
+C:\Users\Sam\Documents\projects\github\DIlbert-comic\obj\Release\MainWindow.g.cs
+C:\Users\Sam\Documents\projects\github\DIlbert-comic\obj\Release\App.g.cs
+C:\Users\Sam\Documents\projects\github\DIlbert-comic\obj\Release\daily_dilbert_MarkupCompile.cache
+C:\Users\Sam\Documents\projects\github\DIlbert-comic\obj\Release\daily_dilbert_MarkupCompile.lref
+C:\Users\Sam\Documents\projects\github\DIlbert-comic\obj\Release\MainWindow.baml
+C:\Users\Sam\Documents\projects\github\DIlbert-comic\obj\Release\daily_dilbert.g.resources
+C:\Users\Sam\Documents\projects\github\DIlbert-comic\obj\Release\daily_dilbert.Properties.Resources.resources
+C:\Users\Sam\Documents\projects\github\DIlbert-comic\obj\Release\daily_dilbert.csproj.GenerateResource.cache
+C:\Users\Sam\Documents\projects\github\DIlbert-comic\obj\Release\daily_dilbert.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\projects\github\DIlbert-comic\obj\Release\daily_dilbert.exe
+C:\Users\Sam\Documents\projects\github\DIlbert-comic\obj\Release\daily_dilbert.pdb
