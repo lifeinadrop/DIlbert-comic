@@ -1,0 +1,14 @@
+C:\Users\Sam Mowrer\Documents\projects\DIlbert-comic\bin\Debug\daily_dilbert.exe.config
+C:\Users\Sam Mowrer\Documents\projects\DIlbert-comic\bin\Debug\daily_dilbert.exe
+C:\Users\Sam Mowrer\Documents\projects\DIlbert-comic\bin\Debug\daily_dilbert.pdb
+C:\Users\Sam Mowrer\Documents\projects\DIlbert-comic\obj\Debug\MainWindow.g.cs
+C:\Users\Sam Mowrer\Documents\projects\DIlbert-comic\obj\Debug\App.g.cs
+C:\Users\Sam Mowrer\Documents\projects\DIlbert-comic\obj\Debug\daily_dilbert_MarkupCompile.cache
+C:\Users\Sam Mowrer\Documents\projects\DIlbert-comic\obj\Debug\daily_dilbert_MarkupCompile.lref
+C:\Users\Sam Mowrer\Documents\projects\DIlbert-comic\obj\Debug\MainWindow.baml
+C:\Users\Sam Mowrer\Documents\projects\DIlbert-comic\obj\Debug\daily_dilbert.g.resources
+C:\Users\Sam Mowrer\Documents\projects\DIlbert-comic\obj\Debug\daily_dilbert.Properties.Resources.resources
+C:\Users\Sam Mowrer\Documents\projects\DIlbert-comic\obj\Debug\daily_dilbert.csproj.GenerateResource.cache
+C:\Users\Sam Mowrer\Documents\projects\DIlbert-comic\obj\Debug\daily_dilbert.exe
+C:\Users\Sam Mowrer\Documents\projects\DIlbert-comic\obj\Debug\daily_dilbert.pdb
+C:\Users\Sam Mowrer\Documents\projects\DIlbert-comic\obj\Debug\daily_dilbert.csprojAssemblyReference.cache

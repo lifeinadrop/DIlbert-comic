@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:daily_dilbert"
         mc:Ignorable="d"
-        Title="Daily Dilbert" Height="450" Width="900" Loaded="Window_Loaded" Icon="C:\users\sam\documents\projects\github\dilbert-comic\dilbert.ico">        
+        Title="Daily Dilbert" Height="450" Width="900" Loaded="Window_Loaded" Icon="Bo-Dilbert-Dilbert.ico">        
     <Grid>
         <Image x:Name="comic" Margin="0,0,0,30" />
         <Button x:Name="setAsWallpaper" Height="30" VerticalAlignment="Bottom" Content="Set as Wallpaper" Click="SetAsWallpaper_Click" />

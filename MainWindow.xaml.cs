@@ -19,6 +19,8 @@ namespace daily_dilbert
         private void SetAsWallpaper_Click(object sender, RoutedEventArgs e)
         {
             // Set as wallpaper. Work in progress.
+
+            saveFileDialog.ShowDialog();
         }
 
         private async void Window_Loaded(object sender, RoutedEventArgs e)

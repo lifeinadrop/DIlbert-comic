@@ -101,5 +101,8 @@
   <ItemGroup>
     <Resource Include="Bo-Dilbert-Dilbert.ico" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="dilbert.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
