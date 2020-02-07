@@ -134,5 +134,13 @@ namespace daily_dilbert
             return basePath + target;
         }
 
+        // Minimize to system tray when application is minimized.
+        protected override void OnStateChanged(EventArgs e)
+        {
+            if (WindowState == WindowState.Minimized) this.Hide();
+
+            base.OnStateChanged(e);
+        }
+
     }
 }
