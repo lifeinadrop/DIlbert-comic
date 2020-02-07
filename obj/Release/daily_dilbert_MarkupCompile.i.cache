@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Sam Mowrer\Documents\projects\DIlbert-comic\obj\Debug\
+C:\Users\Sam Mowrer\Documents\projects\DIlbert-comic\obj\Release\
 daily_dilbert
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\Sam Mowrer\Documents\projects\DIlbert-comic\App.xaml
 11151548125
 
-5-2017746502
+6-788330902
 141183416626
 MainWindow.xaml;
 
-False
+True
 
