@@ -106,6 +106,7 @@ namespace daily_dilbert
             {
                 Console.WriteLine("\nException Caught!");
                 Console.WriteLine("Message :{0} ", e.Message);
+                MessageBox.Show("You need an internet connection to use this application.");
                 return null;
             }
         }
